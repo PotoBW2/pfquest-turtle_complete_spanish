@@ -1842,7 +1842,7 @@ pfDB["quests"]["esES-turtle"] = {
   [386] = {
     ["D"] = "Targorr el Temible sirvió bajo Gath\'Ilzogg como Ejecutor Supremo. Sus métodos eran despiadados, incluso para los estándares de los sucios orcos. Hombres que lucharon valientemente para defender el Reino fueron torturados por su capricho. Ahora está retenido en las Mazmorras de Ventormenta, sentenciado a morir. Sin embargo, algo anda mal. Uno de los nobles burocráticos ha detenido su ejecución. Estoy seguro de que hay juego sucio en marcha.$b$bPonle fin a Targorr el Temible, $N. Viaja a las Mazmorras y decápitalo antes de que la traición nos alcance.",
     ["O"] = "Lleva la cabeza de Targorr el Temible al Guardia Berton en Villa del Lago.",
-    ["T"] = "Lo Que Va, Viene...",
+    ["T"] = "Lo Que Sucede Alrededor...",
   },
   [387] = {
     ["D"] = "¡Hay que detener el motín! Necesito tu ayuda. ¡Si alguien se entera de que la prisión es un caos perderé mi trabajo! Esto es juego sucio. Pero lo importante es obligar a los prisioneros a rendirse, por la seguridad de Ventormenta.$B$BEl castigo por sublevación es la muerte. Mata a alguno de esos desviados. Y verás como vuelven al buen camino...",
