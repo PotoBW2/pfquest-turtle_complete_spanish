@@ -8191,7 +8191,7 @@ pfDB["quests"]["esES-turtle"] = {
   [2745] = {
     ["D"] = "Hmm, una historia interesante, y no una que deba tomarse a la ligera. Sí, puedo ayudarte, pero lo que necesitas hacer es impartir una forma de justicia que no sea... legal, si quieres ver esto hasta el final.$B$BLescovar y Marzon deben ser tratados, y rápidamente. ¿Crees que eres capaz de algo así?$B$BTú decides. Si es así, entonces date prisa y ve al castillo y busca a un viejo amigo mío, un gnomo llamado Tyrion. Ha estado vigilando a Lescovar durante un par de semanas. Él debería poder ayudarte a terminar esto.",
     ["O"] = "Habla con Tyrion en el Castillo de Ventormenta.",
-    ["T"] = "Infiltración en el Castillo",
+    ["T"] = "Infiltrate en el Castillo",
   },
   [2746] = {
     ["D"] = "Trias quiere que el horario se adelante un poco, ¿eh? Está bien, podemos hacer eso, pero no estoy listo. Y sabe esto, yo estoy haciendo la parte difícil, pero tú eres el que va a ensuciarse las manos, ¿entiendes? Bien.$B$BEstá bien, necesitaré que me consigas algunas cosas antes de que pueda poner mi plan en acción. Tengo el disfraz perfecto que hará que Spybot pase esos guardias.$B$BTráeme algo de seda y un par de manzanas. La seda depende de ti, pero la pequeña granja de Clara justo fuera de la ciudad tiene las manzanas del tamaño perfecto.",
