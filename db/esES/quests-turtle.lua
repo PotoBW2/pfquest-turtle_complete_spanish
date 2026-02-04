@@ -1868,7 +1868,7 @@ pfDB["quests"]["esES-turtle"] = {
   [392] = {
     ["D"] = "Durante los primeros años del encarcelamiento de Thredd, nunca tuvo visitantes. Supuse que ya no era útil para la Hermandad, así que lo abandonaron.$B$BDe todos modos, hace unos meses, eso cambió, comenzó a recibir visitas regulares... una, quizás dos veces por semana. Era un hombre extraño, del tipo callado. Tenía mis sospechas, pero todos sus papeles estaban en orden.$B$BSus documentos decían que su nombre era Maelik, aquí está su descripción. No creo que vuelva a visitar a Thredd.",
     ["O"] = "Lleva la Descripción Sellada del Visitante de Thredd a Baros Alexston en Ventormenta.",
-    ["T"] = "El Visitante Curioso",
+    ["T"] = "Extraño Visitante",
   },
   [393] = {
     ["D"] = "Realmente no tengo ni idea, $N. Hay alguien más que podría ayudarte, y resulta que me debe un favor por—bueno, no entremos en eso. El Maestro Mathias Shaw de SI:7 puede ser encontrado en los cuarteles del Casco Antiguo. Shaw tiene su dedo en la mayoría de los tratos turbios o deshonestos de la ciudad.$B$BSi alguien sabe, sería él.",
