@@ -8622,7 +8622,7 @@ pfDB["quests"]["esES-turtle"] = {
   [2928] = {
     ["D"] = "Es terrible, $N. No vamos a tener suficientes piezas para llevar nuestra flota de excavadoras giroperforadoras a Dun Morogh.$B$BNecesitamos piezas de repuesto, $N. ¿Qué mejor lugar para conseguir las piezas de repuesto para nuestros vehículos que Gnomeregan? Escuché que los robots y los mechs deambulan por ese lugar como ganado en un campo abierto.$B$BLo que necesito que hagas es ir a Gnomeregan y desarmar esos robots. Tráeme sus entrañas de robot. Dos docenas deberían ser suficientes.",
     ["O"] = "Lleva veinticuatro Tripas Robo-mecánicas a Shoni en Ventormenta.",
-    ["T"] = "Excavadores Girodrillmatic",
+    ["T"] = "Excavadoras Gyroagujereamáticas",
   },
   [2929] = {
     ["D"] = "Confié en Thermaplugg, $r. Nunca esperé que me traicionara a mí y a todo el pueblo gnomo. ¿Y para qué? ¿Poder? ¿Riqueza? Todo lo que habría tenido con el tiempo. Ahora hemos sido desplazados de nuestro hogar y ese loco está al mando. El rey de la nada....$B$BRecuperaremos Gnomeregan, $N. No nos detendremos hasta que la ciudad vuelva a estar bajo nuestro control. Si deseas unirte a nuestra lucha, te pido una simple tarea: Mata al traidor. Destruye al Mecánico maestro Thermaplugg.",
