@@ -1,15 +1,8 @@
 # pfQuest (turtle)
 This AddOn is a [pfQuest](https://github.com/shagu/pfQuest) extension, which adds support for the [TurtleWoW](https://turtle-wow.org/) Private Server. In order to run this extension, the latest version of [pfQuest](https://github.com/shagu/pfQuest) is always required and only enUS-Gameclients are supported.
 
-*Notice: Issues and bugs like "please add quest XYZ" and all other content requests will be silently ignored. This is, because the data is not manually added, but depends on the Turtle-WoW team to release their database to a trusted person that can produce pfQuest-turtle builds.*
+Este complemento es una extensión de [pfQuest](https://github.com/shagu/pfQuest) que añade compatibilidad con el servidor privado de [TurtleWoW](https://turtlecraft.gg). Para ejecutar esta extensión, se requiere la última versión de [pfQuest](https://github.com/shagu/pfQuest).
 
-If you wish to contribute, please feel free to send a [Pull Requests](https://github.com/shagu/pfQuest-turtle/pulls).
+*Aviso: Los problemas y errores como "Añadir la misión XYZ" y cualquier otra solicitud de contenido se ignorarán. Esto se debe a que los datos no se añaden manualmente, sino que el equipo de Turtle-WoW entrega su base de datos a una persona de confianza que pueda crear compilaciones de pfQuest-turtle.*
 
-## Install
-*The latest version of [pfQuest](https://shagu.org/pfQuest) is required for this module to work.*
-
-1. Download **[pfQuest-turtle](https://github.com/shagu/pfQuest-turtle/archive/master.zip)**
-2. Unpack the Zip file
-3. Rename the folder "pfQuest-turtle-master" to "pfQuest-turtle"
-4. Copy "pfQuest-turtle" into Wow-Directory\Interface\AddOns
-5. Restart Wow
+Shagu abandono el proyecto por motivos legales con Blizzard pero aca hemos ido poco a poco arreglando lo que dejo. Comparta el addons para que llegue a mas personas de habla Hispana.
