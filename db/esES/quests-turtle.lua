@@ -1591,7 +1591,7 @@ pfDB["quests"]["esES-turtle"] = {
   [335] = {
     ["D"] = "El Lord Wishock está causando bastante revuelo entre la Casa de los Nobles. Se enteró de nuestro pequeño \"establecimiento\" aquí abajo y está presionando para una investigación completa. Tengo un plan para mantener a Wishock \"ocupado\", pero necesitaré tu ayuda.$B$BEn el Jardín de Stalvan en las afueras de Villa Oscura crece una flor. Esta pequeña flor blanca es conocida como la Lágrima de Tilloa. También necesitaré una Raíz de Musquash, que solo se encuentra en la base de las cataratas debajo de la Presa Forjada en los Humedales.",
     ["O"] = "Zardeth la Garra Negra quiere que le lleves una Lágrima de Tilloa de Villa Oscura y una Raíz de Musquash de los Humedales.",
-    ["T"] = "Una Cerveza Noble",
+    ["T"] = "Una Noble Cerveza",
   },
   [336] = {
     ["D"] = "El Lord Wishock, como todos los hombres, tiene sus debilidades. La suya es su afición por el licor. La hipocresía es asombrosa. El tonto trivial pasa sus días tratando de cerrar nuestra pequeña \"taberna\" mientras que sus noches las pasa arriba, acumulando una cuenta que nunca paga. Bueno, veamos cómo le gusta a Wishock esta cerveza especial que he preparado para él: la cerveza negra Garra Negra. Tiene bastante fuerza, $n.$B$BLlévasela y ve cómo le gusta. Lo más probable es que el viejo tonto esté merodeando por el Salón de los Peticionarios.",
