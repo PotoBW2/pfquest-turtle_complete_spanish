@@ -1726,6 +1726,7 @@ pfDB["units"]["esES-turtle"] = {
   [4779] = "Carnero de Montar Marrón",
   [4780] = "Carnero de Montar (Negro)",
   [4781] = "Husmeador Taltuza",
+  [4783] = "Vigía del Alba Selgorm",
   [4785] = "Pesadilla Ilusoria",
   [4787] = "Explorador Argenta Thaelrid",
   [4802] = "Sacerdotisa de las Mareas Brazanegra",
