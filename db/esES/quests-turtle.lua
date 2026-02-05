@@ -8196,7 +8196,7 @@ pfDB["quests"]["esES-turtle"] = {
   [2746] = {
     ["D"] = "Trias quiere que el horario se adelante un poco, ¿eh? Está bien, podemos hacer eso, pero no estoy listo. Y sabe esto, yo estoy haciendo la parte difícil, pero tú eres el que va a ensuciarse las manos, ¿entiendes? Bien.$B$BEstá bien, necesitaré que me consigas algunas cosas antes de que pueda poner mi plan en acción. Tengo el disfraz perfecto que hará que Spybot pase esos guardias.$B$BTráeme algo de seda y un par de manzanas. La seda depende de ti, pero la pequeña granja de Clara justo fuera de la ciudad tiene las manzanas del tamaño perfecto.",
     ["O"] = "Lleva 3 Paños de Seda y 2 Manzanas Frescas de Clara a Tyrion en Ventormenta.",
-    ["T"] = "Objetos de Alguna Consecuencia",
+    ["T"] = "Objetos Importantes",
   },
   [2747] = {
     ["D"] = "",
