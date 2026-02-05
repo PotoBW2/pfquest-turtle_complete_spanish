@@ -22630,7 +22630,7 @@ pfDB["quests"]["esES-turtle"] = {
   [40255] = {
     ["D"] = "Hace un tiempo, un grupo de soldados partió hacia el Pantano de las Penas. Tenían la tarea de reclamar un viejo fuerte que se encontraba en las montañas cerca del borde occidental del pantano. El paladín Janathos era el líder de este grupo y me pidió que dijera una bendición por él y sus hombres.$B$BSin duda, necesitarán ayuda allí y tal vez un par de manos frescas serían bienvenidas. El Fuerte Penasguardia debería estar cerca de la entrada al Paso de la Muerte, de hecho, se cierne sobre él. Una vez se usó para proteger la frontera del reino, créelo o no.$B$BSi ves a Janathos, ¡dile que le mando saludos!",
     ["O"] = "Preséntate ante el Guardián de la Guarda Janathos en la Fortaleza de la Guardia del Dolor en los Pantanos de las Penas.",
-    ["T"] = "Hacia el Castillo Sorrowguard",
+    ["T"] = "Hacia el Fortaleza Guardapenas",
   },
   [40256] = {
     ["D"] = "El Clan Roca Negra pertenece a la Vieja Horda, un enemigo muy grande y peligroso para Orgrimmar. No te dejes engañar por la distancia entre la Montaña Roca Negra y Orgrimmar. Si el Clan Roca Negra alguna vez gana una cantidad considerable de fuerza, vendrán a destruirnos también. La Vieja Horda consiste en muchas facciones que permanecieron aquí en los Reinos del Este durante sus batallas en la Primera y Segunda Guerra y son un enemigo curtido que no debe ser subestimado.$B$BMe han enviado aquí directamente desde Orgrimmar para ser un obstáculo para el Clan Roca Negra, y tú me ayudarás. Después de todo, es el honor de la Horda lo que está en juego.$B$BReúne 20 Sellos Roca Negra, usados por todos los miembros del Clan Roca Negra en la región. Mátalos, toma sus sellos y tráemelos.",
