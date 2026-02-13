@@ -7501,7 +7501,7 @@ pfDB["quests"]["esES-turtle"] = {
   [1940] = {
     ["D"] = "Tu servicio ha sido inquebrantable, $N. Creo que, tal vez, es hora de que tengas una prenda más fina, una que se ajuste más a tu estación como mago adepto. Si reúnes los materiales necesarios, entonces arreglaremos que te hagan la túnica.$B$BDebes entrar en Bosque del Ocaso y cazar arañas reclusas carroñeras. Extrae su seda, pero solo la seda más fina y prístina servirá. Cuando tengas suficiente, llévasela a Wynne Larson, aquí en el distrito de los magos en la Sastrería Larson. Ella te confeccionará la túnica.",
     ["O"] = "Lleva 8 Seda de Araña Pristina a Wynne Larson en Ventormenta.",
-    ["T"] = "Seda de Araña Inmaculada",
+    ["T"] = "Seda Prístina de Araña",
   },
   [1941] = {
     ["D"] = "",
