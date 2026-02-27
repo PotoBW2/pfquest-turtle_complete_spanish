@@ -253,6 +253,7 @@ pfDB["units"]["esES-turtle"] = {
   [596] = "Noble con lavado de cerebro",
   [601] = "_",
   [605] = "_",
+  [604] = "Propagador de Peste",
   [606] = "_",
   [607] = "_",
   [609] = "_",
