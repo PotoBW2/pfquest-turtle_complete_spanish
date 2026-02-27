@@ -736,7 +736,7 @@ pfDB["quests"]["esES-turtle"] = {
   [157] = {
     ["D"] = "Aquí tienes tu hilo, $N. Tiene mil usos, desde atar espíritus malignos hasta dar vida a objetos inanimados.",
     ["O"] = "Lleva el hilo de cabello fantasma a Abercrombie, a su choza al norte del Cementerio del Colina del Cuervo.",
-    ["T"] = "Entregar el Hilo",
+    ["T"] = "Devolver el Pelo",
   },
   [158] = {
     ["D"] = "Necesito una botella de un licor en particular: Jugo de Zombi. El tabernero Smitts en la Taberna del Cuervo Escarlata en Villa Oscura debería tener algo.$B$B¡Y por favor, date prisa, $N! Estas noches se ponen frías, y necesito ese trago para volver a encender el fuego en mis venas.",
