@@ -1913,7 +1913,7 @@ pfDB["quests"]["esES-turtle"] = {
   [401] = {
     ["D"] = "Casi he terminado de traducir esa nota. Si vuelves en unos momentos, debería estar lista.",
     ["O"] = "Espera un momento, luego habla con Sirra Von\'Indi nuevamente.",
-    ["T"] = "Espera a que Sirra Termine",
+    ["T"] = "Espera a Que Sirra Acabe",
   },
   [403] = {
     ["D"] = "",
