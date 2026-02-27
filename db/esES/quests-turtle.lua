@@ -731,7 +731,7 @@ pfDB["quests"]["esES-turtle"] = {
   [156] = {
     ["D"] = "Si me traes algunas flores de pútrido, puedo prepararte un lote de jugo de zombi.$B$BLas flores de pútrido crecen en lugares extraños. En particular, escuché que puedes encontrarlas dentro de los cráneos de los Horrores Esqueléticos y los Fiendes Esqueléticos... ¡no que me haya acercado lo suficiente para mirar!$B$BEl Cementerio de la Colina del Cuervo y los Jardines Tranquilos están llenos de esos esqueletos. Puedes deshacerte de ellos mientras buscas flores de pútrido. El pueblo de Villa Oscura estaría agradecido.",
     ["O"] = "Reúne 8 Flores Pútridas y llévaselas al Tabernero Smitts en Villa Oscura.",
-    ["T"] = "Recoger Flores Putrefactas",
+    ["T"] = "Busca Flores Podridas",
   },
   [157] = {
     ["D"] = "Aquí tienes tu hilo, $N. Tiene mil usos, desde atar espíritus malignos hasta dar vida a objetos inanimados.",
