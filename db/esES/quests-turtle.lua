@@ -1056,17 +1056,17 @@ pfDB["quests"]["esES-turtle"] = {
   [221] = {
     ["D"] = "¿Te has fijado en algunos de los huargos más grandes que deambulan con los Tejedores de las Sombras en el bosque? Por lo que podemos decir, estos Corredores Oscuros constituyen la mayor parte de los números de los huargos.$b$bEn mis recorridos, también he notado que han invadido el Huerto Putrefacto al suroeste de la ciudad. Estos huargos son un poco más duros que los que enfrentaste la última vez.$b$bMantente alerta.",
     ["O"] = "Mata 12 Huargens Corredor Nocturno para Calor en Villa Oscura.",
-    ["T"] = "Huargos en el Bosque",
+    ["T"] = "Huargen en el Bosque",
   },
   [222] = {
     ["D"] = "Tus logros anteriores me han convencido de que estás listo para enfrentarte a los huargos más peligrosos que infestan el bosque.$b$bDe los huargos que han hecho de este lugar su nuevo hogar, los Colmillos Viles y los Corrompidos han demostrado ser los más peligrosos. Se han establecido cerca de algunas de las cuevas y en la mina al sur.$b$bDesde lejos, incluso puedes ver la luz de sus hogueras...",
     ["O"] = "Mata 8 Colmillo Vil Noctívago y 8 Tiznados Noctívago para Calor en Villa Oscura.",
-    ["T"] = "Huargos en el Bosque",
+    ["T"] = "Huargen en el Bosque",
   },
   [223] = {
     ["D"] = "Aquí tienes, $n. Lleva este mensaje al Maestro Carevin.$b$b<Él rápidamente saca un pedazo de pergamino descolorido y te lo ofrece.>$b$bCon unos pocos más como tú, superaremos en número a la Guardia Nocturna! Quizás entonces podamos completar el trabajo que nosotros pocos llevamos a cabo hoy.",
     ["O"] = "Lleva la nota de Calor a Jonathan Carevin.",
-    ["T"] = "Huargos en el Bosque",
+    ["T"] = "Huargen en el Bosque",
   },
   [224] = {
     ["D"] = "¡Necesitamos proteger el Loch, $N! Con tantos soldados del Rey luchando valientemente en campos de batalla remotos, nos hemos visto abrumados en el frente interno. ¡Los troggs están saliendo de cada grieta! La infestación de troggs representa la mayor amenaza para Forjaz. Estos repugnantes mutantes deben ser destruidos.$b$b¡Te necesitamos, valiente aventurero, para que salgas y acabes con la amenaza de los troggs! Mata a 10 Troggs Rompepiedras y a 10 Exploradores Rompepiedras e informa de vuelta.",
