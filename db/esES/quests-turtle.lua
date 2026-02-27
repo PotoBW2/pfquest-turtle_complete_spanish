@@ -9627,7 +9627,7 @@ pfDB["quests"]["esES-turtle"] = {
   [3524] = {
     ["D"] = "Se sabe que majestuosas criaturas marinas se lanzan a la costa de Costa Oscura, varadas allí hasta que mueren. Últimamente, estas bestias han estado llegando a la orilla en números cada vez mayores. He sido enviado aquí por el Templo de la Luna para investigar, pero la presencia de múrlocs a lo largo del agua ha dificultado mi investigación.$B$BHay una criatura gigante varada justo al sur de Auberdine que está rodeada por los repugnantes múrlocs Brumagris. ¿Podrías ir allí y recuperar huesos de la criatura para nuestro estudio?",
     ["O"] = "Recupera Huesos de Criatura Marina de la criatura marina varada justo al sur de Auberdine, y luego llévaselos a Gwennyth Bly\'Leggonde en Auberdine.",
-    ["T"] = "Arrastrado a la Orilla",
+    ["T"] = "Varado",
   },
   [3525] = {
     ["D"] = "Cerca de la entrada hay un ídolo que funciona como un horno macabro para los Quilboar, las bestias... literalmente consumen a sus secuestrados de Los Baldíos. Puedo desactivar el ídolo y evitar que lo usen de nuevo, pero necesito tu ayuda para hacerlo. Mi plan: escoltarme al ídolo. Una vez que lleguemos, comenzaré el ritual. Apenas podré comunicarme contigo, y mucho menos defenderme. Protégeme mientras desactivo el ídolo. Si me derriban, entonces todo habrá terminado para nosotros.$B$B¿Estás conmigo?!",
