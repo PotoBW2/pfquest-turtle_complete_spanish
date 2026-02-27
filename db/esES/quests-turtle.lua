@@ -11113,7 +11113,7 @@ pfDB["quests"]["esES-turtle"] = {
   [4681] = {
     ["D"] = "Esa criatura varada no es un incidente aislado aquí en Costa Oscura. Hay más a lo largo de la costa e incluso en el agua. Me gustaría que investigaras otra que conocemos, esta fue reportada en el agua al oeste de Auberdine, cerca de un barco hundido. Regresa a mí con cualquier cosa que puedas recuperar y que ayude a nuestra investigación.$B$BAdemás, en tus viajes puedes encontrar otras criaturas. Por supuesto, si descubres algo, por favor, haznoslo saber.",
     ["O"] = "Recupera los Restos de Tortuga Marina de la Tortuga Marina Esquelética en las aguas al oeste de Auberdine, y luego habla con Gwennyth Bly\'Leggonde de vuelta en Auberdine.",
-    ["T"] = "Arrastrado a la Orilla",
+    ["T"] = "Varado",
   },
   [4701] = {
     ["D"] = "Sin duda has visto a los huargos que comandan los orcos de Roca Negra.$B$BEs curioso: no importa cuántos destruyamos, su número nunca disminuye. Mis exploradores han informado que los huargos son criados, entrenados y finalmente exportados desde la Cumbre de Roca Negra: la ciudad capital de los orcos de Roca Negra. Debes viajar a la Cumbre de Roca Negra y descubrir la fuente de esta amenaza. Descubre... y destruye.$B$B¡Buena suerte, $N! Que Cenarius te proteja...",
