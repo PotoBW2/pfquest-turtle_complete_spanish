@@ -1203,7 +1203,7 @@ pfDB["quests"]["esES-turtle"] = {
   [252] = {
     ["D"] = "¡Oh, cielos! Si lo que está escrito en esta nota es cierto, entonces Abercrombie ha hecho algo... indescriptible.$B$BEs mejor que lleves la nota traducida de vuelta a Ello.$B$BY hazlo rápidamente, porque temo que una condena ya se acerca a nuestro pueblo...",
     ["O"] = "Lleva la Carta Traducida a Lord Ello Ebonlocke.",
-    ["T"] = "Traducción para Ello",
+    ["T"] = "Una Traducción Para Ello",
   },
   [253] = {
     ["D"] = "El Embalsamador es un nombre mencionado en una de nuestras historias infantiles. Era un alquimista amable, enloquecido por la muerte de su esposa, Eliza. Para restaurarla, usó magia oscura para colocar su propio corazón en el pecho de su esposa muerta.$B$BEsto revivió a Eliza... pero la maldijo con un hambre de carne humana, obligando al Embalsamador a mantenerla enterrada.$B$BSu corazón es su poder. Encuentra la tumba de su esposa, recupera su corazón y tráemelo mientras aún late. Haz esto y su poder se romperá.",
