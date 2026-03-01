@@ -4787,17 +4787,17 @@ pfDB["quests"]["esES-turtle"] = {
   [1001] = {
     ["D"] = "Una pequeña voz crepita desde lo profundo de la máquina.$B$B\"¡Wizbang aquí! El siguiente Buzzbox está al norte de Auberdine, en la playa$B$BEntonces, ese Buzzbox es el número 411 y necesita 3 Ojos de Zarpador para sus reparaciones. ¡Están justo en la costa! Los zarpadores de Costa Oscura... *Hic*... Lo siento por eso...$B$BComo la última vez, cuando le des los objetos al Buzzbox, escupirá tu recompensa. *Hic*... ¿Qué? No, estoy bien!\"",
     ["O"] = "Recolecta 3 Ojos de Triturador de los Trituradores de Costa Oscura en el mar profundo cerca de la Caja de Bombas 411.",
-    ["T"] = "Caja de zumbidos 411",
+    ["T"] = "La Caja Mecánica 411",
   },
   [1002] = {
     ["D"] = "El Buzzbox emite una ráfaga de estática mientras escuchas a Wizbang comenzar a hablar.$B$B\"El siguiente Buzzbox es el número 323. Está al norte de Auberdine pero... ¿dónde está la cerveza? ¿Qué? Oh, está en el camino, así que no deberías tener problemas para encontrarlo cerca del puente.\"$B$BWizbang murmura algo incomprensible antes de que escuches un fuerte sonido de trago.$B$B\"Este necesita Colmillos de Acechador Lunar... 6 de ellos.\"",
     ["O"] = "Recolecta 6 Colmillos de Acechador Lunar y colócalos en la Caja de Bombas 323.",
-    ["T"] = "Caja de zumbidos 323",
+    ["T"] = "La Caja Mecánica 323",
   },
   [1003] = {
     ["D"] = "Sobre los ruidos hirvientes y los sonidos de goteo que provienen de la máquina, escuchas la voz temblorosa de Wizbang llamar.$B$B\"Los próximos están más al sur por el camino. No debería ser difícil de encontrar... justo al lado... cerca de un pantano. Creo que lo escondí en unos arbustos... Arbustos. Jejeje... Sí, la Caja de Zumbidos 525 toma cueros cabelludos de esos osos cardo grisáceos. Vaya, eso es un trabalenguas. Grisáceos... Jejeje...\"$B$BEscuchas más sonidos de trago mientras la máquina se apaga. Luego, de repente, vuelve a la vida.$B$B\"¡4!\"",
     ["O"] = "Recolecta 4 Cueros Cabelludos Canosos de los Osos Cardo Canosos al sur de Auberdine y colócalos en la Caja de Bombas 525.",
-    ["T"] = "Caja de zumbidos 525",
+    ["T"] = "La Caja Mecánica 525",
   },
   [1004] = {
     ["D"] = "¡Atención, héroes!$B$B¡El Círculo Cenarion busca individuos capaces para ayudarlos a explorar las vastas nuevas fronteras de Kalimdor! Un yermo prohibido de peligros inimaginables se encuentra al oeste de Tanaris y Gadgetzan, y el Círculo necesita representantes dispuestos y honorables para actuar en su nombre.$B$B¡Todos los interesados deben buscar audiencia con el Círculo Cenarion. Habla con el Archidruida Hamuul Runetotem en la Cima de los Ancestros de Cima del Trueno para más información!",
