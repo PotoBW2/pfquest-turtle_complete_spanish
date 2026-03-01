@@ -4715,7 +4715,7 @@ pfDB["quests"]["esES-turtle"] = {
   [983] = {
     ["D"] = "¡Oye! Ayúdame con mi último invento, el buzzbox. ¡Puedes hablar con personas lejanas!$B$BTal vez ya los hayas visto, son cajas con palancas. El único problema es que necesitan mantenimiento constante.$B$BCada uno sufre de un problema diferente, pero tomé una decisión muy inteligente. Coloqué cada uno cerca de criaturas que tienen las partes adecuadas para arreglar esa máquina en particular. En este momento, el Buzzbox 827 está fallando. Está justo al sur de Auberdine, muy cerca. Se necesitan 6 Patas de Rastreador para arreglarlo. Te pagaré...",
     ["O"] = "Recolecta 6 Patas de Rastrero y colócalas en la Caja de Bombas 827.",
-    ["T"] = "Cajabón 827",
+    ["T"] = "La Caja Mecánica 827",
   },
   [984] = {
     ["D"] = "Algunos de mis hermanos fueron rescatados de un furbolg corrupto en Teldrassil, y he jurado detener más atrocidades antes de que más de nuestra especie sean heridos... o algo peor.$B$BHe visto un par de indicios de corrupción en Costa Oscura ya, pero aún no he encontrado signos generalizados. Creo que sería lógico si la investigación continuara con los furbolgs. ¿Encontrarías uno de sus campamentos y me informarías si ves algún signo de corrupción?",
