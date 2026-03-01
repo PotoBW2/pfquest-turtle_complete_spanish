@@ -902,6 +902,7 @@ pfDB["units"]["esES-turtle"] = {
   [2179] = "Jinete de Olas Escama Tormenta",
   [2180] = "Sirena Escama Tormenta",
   [2181] = "Mirmidón Escama Tormenta",
+  [2185] = "Trillador de Costa Oscura",
   [2187] = "Trillador de la Costa Oscura Mayor",
   [2188] = "Trillanodonte de las Profundidades",
   [2189] = "Duende Vil",
