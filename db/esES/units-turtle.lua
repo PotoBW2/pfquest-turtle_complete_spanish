@@ -925,6 +925,7 @@ pfDB["units"]["esES-turtle"] = {
   [2222] = "_",
   [2223] = "_",
   [2224] = "Jinete del Viento",
+  [2232] = "Reptador de Marea",
   [2233] = "Corremareas Escamado",
   [2234] = "Joven Reptador Correarrecifes",
   [2236] = "Reptador Correarrecifes Enfurecido",
