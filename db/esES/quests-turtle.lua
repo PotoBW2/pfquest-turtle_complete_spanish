@@ -7666,7 +7666,7 @@ pfDB["quests"]["esES-turtle"] = {
   [2118] = {
     ["D"] = "Una enfermedad se extiende por Costa Oscura, afectando las mentes y los cuerpos de todos los que toca.$B$BLos Osos Cardo han sido los más afectados por esta plaga. Las nobles bestias son ahora un instrumento de destrucción: rabiosas y frenéticas. Puede que tenga una cura para esta enfermedad.$B$BToma esta trampa al bosque y colócala en el suelo. Cualquier Oso Cardo Rabioso que cruce la luz se volverá dócil por un corto tiempo. Una vez que el oso esté dócil, te seguirá. Tráelo de vuelta aquí, $N.",
     ["O"] = "Captura un Oso Cardo Rabioso vivo y llévalo de vuelta a Tharnariun.$B$BSi fallas en capturar un Oso Cardo Rabioso y pierdes tu trampa, regresa con Tharnariun Cuidador de Árboles y pide otra trampa.",
-    ["T"] = "Tierras Contaminadas",
+    ["T"] = "Tierras Apestadas",
   },
   [2138] = {
     ["D"] = "Como temía, la cura no funciona.$B$BMe entristece enormemente ordenar la muerte de cualquiera de las bestias de la naturaleza, pero los osos cardenal infectados y contaminados deben ser sacrificados.$B$BRegresa al bosque y destruye 20 osos cardenal rabiosos, $N. Ciertamente no pondrá fin a la plaga, pero ralentizará el daño que los animales están causando a nuestro bosque y sus habitantes por un tiempo.",
