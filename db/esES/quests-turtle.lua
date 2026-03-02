@@ -11218,7 +11218,7 @@ pfDB["quests"]["esES-turtle"] = {
   [4740] = {
     ["D"] = "¡Atención!$B$BSe ofrece una recompensa por la muerte del múrloc \"Murkdeep\". Esta bestia despreciable es responsable de la muerte de al menos una Centinela, y se sospecha que causó el hundimiento de al menos dos barcos de carga en las aguas de Costa Oscura.$B$BMurkdeep fue visto por última vez en un campamento de múrlocs al sur de Auberdine, y se cree que está protegiendo las chozas allí. Las reclamaciones de recompensa por esta recompensa deben presentarse con la Centinela Glynda Nal\'Shea en Auberdine.$B$BEl Consejo de la Aldea de Auberdine",
     ["O"] = "Encuentra y mata al múrloc conocido como Murkdeep. Se cree que la criatura está defendiendo las chozas de múrlocs al sur de Auberdine junto al agua.$B$BInforma de la muerte de Murkdeep a la Centinela Glynda Nal\'Shea en Auberdine.",
-    ["T"] = "SE BUSCA: ¡Viscoso!",
+    ["T"] = "Se Busca: ¡Viscoso!",
   },
   [4741] = {
     ["D"] = "En las áreas del norte de Cuna del Invierno, los Feroces se vuelven aún más feroces. Debemos continuar nuestras medidas allí.$B$BCaza a los bestias lunares tocaditas por la luna en Cuna del Invierno y explora el área que habitan.$B$BEs un terreno peligroso, pero sé que podrás manejar el desafío. Regresa a mí después de haber matado a 13 de los Feroces.",
