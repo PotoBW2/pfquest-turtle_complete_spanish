@@ -32562,11 +32562,6 @@ pfDB["quests"]["esES-turtle"] = {
     ["O"] = "Busca en el campo de batalla al Maestro de Espadas Axun y mátalo.",
     ["T"] = "Golpe Estratégico",
   },
-  [175320] = {
-    ["D"] = "_",
-    ["O"] = "_",
-    ["T"] = "Se Busca: ¡Viscoso!",
-  },
   [1140820] = {
     ["D"] = "Por mucho que disfrute viéndolos arrojarse a la picadora de carne, esto no nos ganará la batalla. Si vamos a conquistar estas tierras, debemos decapitar a su liderazgo. Reúne a los otros reclutas y encuentra a Lady Katrin, la estratega del campo de batalla de los humanos. Una vez que su estructura de mando se desmorone, sus soldados serán presa fácil para nuestros guerreros.",
     ["O"] = "Busca en el campo de batalla a Lady Katrin y mátala.",
