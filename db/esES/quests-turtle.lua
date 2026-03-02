@@ -11243,7 +11243,7 @@ pfDB["quests"]["esES-turtle"] = {
   [4762] = {
     ["D"] = "El río Cliffspring ha comenzado a volverse fétido y corrupto. Desemboca en el Borde de la Niebla, y temo que el lavado afectará a Auberdine pronto. Sospecho que los Fúrbolgs Negrozar río arriba son la causa de la corrupción, pero también sospecho que no son la verdadera raíz.$B$BToma este tubo de muestreo y ve a la boca del río al norte. Procede tierra adentro hasta la primera cascada y toma una muestra del estanque allí. Verás un puente sobre tu cabeza. Una vez que tengas una muestra, regresa conmigo en Auberdine.",
     ["O"] = "Viaja al norte de Auberdine hasta la primera cascada a lo largo del Río Saltariscos y toma una muestra del estanque allí.$B$BRegresa con Thundris Windweaver en Auberdine con la Muestra del Río Saltariscos.",
-    ["T"] = "El Río Manantial del Acantilado",
+    ["T"] = "El Río Fonroca",
   },
   [4763] = {
     ["D"] = "Hemos aprendido que una fuente de la corrupción de los furbolgs proviene de los sátiros. Ellos ejercen su influencia a través de talismanes que canalizan magia. Si los furbolgs tienen alguna posibilidad de salvación, debemos atraer al corruptor sátiro y tomar ese talismán.$B$BLlena este cuenco en nuestro pozo lunar y toma muestras de la comida de los furbolgs de su campamento del norte. Mézclalos y colócalos cerca de la hoguera junto al río, cualquier furbolg que coma será purificado el tiempo suficiente para atraer al corruptor sátiro... ¡al que luego debes matar!",
