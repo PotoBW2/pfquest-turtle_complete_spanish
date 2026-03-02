@@ -4720,12 +4720,12 @@ pfDB["quests"]["esES-turtle"] = {
   [984] = {
     ["D"] = "Algunos de mis hermanos fueron rescatados de un furbolg corrupto en Teldrassil, y he jurado detener más atrocidades antes de que más de nuestra especie sean heridos... o algo peor.$B$BHe visto un par de indicios de corrupción en Costa Oscura ya, pero aún no he encontrado signos generalizados. Creo que sería lógico si la investigación continuara con los furbolgs. ¿Encontrarías uno de sus campamentos y me informarías si ves algún signo de corrupción?",
     ["O"] = "Encuentra un campamento de furbolgs corruptos en Costa Oscura y regresa con Terenthis en Auberdine.",
-    ["T"] = "¿Qué Tan Grande es la Amenaza?",
+    ["T"] = "La Extensión de la Amenaza",
   },
   [985] = {
     ["D"] = "Ya has demostrado ser hábil en el reconocimiento de nuestro enemigo, $N. ¿Tienes lo que se necesita para luchar contra ellos también?$B$BNo todos los aventureros prefieren el combate directo al arte del sigilo y la evasión.$B$BSi crees que estás a la altura de la tarea, entonces el campamento furbolg al sur de Auberdine es actualmente la mayor amenaza para nuestra gente. Encontrarás algunos de la tribu Peloescarcha allí. Mata a 8 exploradores y 5 habladores del viento, y regresa conmigo aquí.",
     ["O"] = "Mata 8 Exploradores del Bosque Negro y 5 Hablavientos y regresa con Terenthis en Auberdine.",
-    ["T"] = "¿Qué Tan Grande es la Amenaza?",
+    ["T"] = "La Extensión de la Amenaza",
   },
   [986] = {
     ["D"] = "$N, tus habilidades ya me han ayudado en mi empresa. ¿Podría imponerme de nuevo para que ayudes a Zarparrío y a su maestro Volcor? Además, puedo confeccionarte una capa mágica que te permitirá caminar sin ser molestado por las criaturas de Costa Oscura mientras lo buscas.$B$BPara crear la capa, necesitaré cinco pieles finas de acechador lunar de un acechador lunar macho o hembra para tener suficiente material. Los gatos se pueden encontrar cerca del Río Doblez Salvaje al sur, o incluso más al sur cerca de Vallefresno.",
