@@ -929,6 +929,7 @@ pfDB["units"]["esES-turtle"] = {
   [2232] = "Reptador de Marea",
   [2233] = "Corremareas Escamado",
   [2234] = "Reptador de Arrecife Joven",
+  [2235] = "Reptador de Arrecife",
   [2236] = "Reptador Correarrecifes Enfurecido",
   [2240] = "Asaltante de Caminos del Sindicato",
   [2244] = "Mago Oscuro del Sindicato",
