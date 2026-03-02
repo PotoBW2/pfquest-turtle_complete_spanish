@@ -4545,7 +4545,7 @@ pfDB["quests"]["esES-turtle"] = {
   [949] = {
     ["D"] = "El propósito del Martillo Crepuscular en el Glaive del Maestro no se conoce. Pero debe ser oscuro.$B$BBusca en su campamento en el Glaive... Busca algo que pueda enseñarnos sus intenciones.$B$BPorque debemos aprender sus intenciones antes de que se haga un plan.",
     ["O"] = "Encuentra una pista en el campamento del Martillo Crepuscular en la Enclava del Maestro.",
-    ["T"] = "El Campamento del Crepúsculo",
+    ["T"] = "El Campamento del Martillo Crepuscular",
   },
   [950] = {
     ["D"] = "Mirar dentro del Tomo Crepuscular es enloquecedor. El texto comienza a nadar y bailar después de solo un momento de mirarlo, y una vez que los hermosos adornos se retuercen en formas grotescas.$B$BArrancar una página de garabatos insanos es todo lo que es posible antes de que un desmayo te sobrecoja.",
