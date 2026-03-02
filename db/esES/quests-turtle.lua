@@ -7566,7 +7566,7 @@ pfDB["quests"]["esES-turtle"] = {
   [1953] = {
     ["D"] = "Es hora, $N, de que hables con Tabetha... la ermitaña de Marjal Revolcafango. Ella te instruirá en la creación de un poderoso implemento de mago.$B$BLa choza de Tabetha se encuentra en lo profundo de Marjal Revolcafango, al oeste de Theramore.",
     ["O"] = "Habla con Tabetha en los Pantanos de Veleno.",
-    ["T"] = "Regreso al Pantano",
+    ["T"] = "Regreso a la Marisma",
   },
   [1954] = {
     ["D"] = "El primer paso es adquirir un orbe con poder. Los brujos de la Espada de Fuego tienen orbes de buena calidad... ¡es una pena que hayan vinculado demonios en ellos! Pero podemos arreglar eso, sí podemos.$B$BVe a Desolace y arrebátale un orbe infernal a un invocador de la Espada de Fuego. Encontrarás invocadores en el Aquelarre de Mannoroc.$B$BCuando tengas el orbe, regresa conmigo.",
