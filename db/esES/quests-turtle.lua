@@ -5450,7 +5450,7 @@ pfDB["quests"]["esES-turtle"] = {
   [1138] = {
     ["D"] = "Me encantan los cangrejos. ¡Los cangrejos son el fruto del mar! Puedes hornearlos, asarlos, hervirlos y cocerlos al vapor. Se fríen en sartén, se fríen en profundidad y se saltean. Hay ensalada de cangrejo, sopa de cangrejo, estofado de cangrejo, cangrejo a la pimienta, cangrejo al limón, cangrejo con raíz látigo y cangrejo sorpresa de Forjaz. Eso es... eso es todo.$B$BEstoy aquí pescando ahora mismo, así que no puedo conseguir trozos finos de cangrejo. Puedes sacarlos de los trepadores de arrecife y los trepadores de marea incrustados. Puedes hacer muchas cosas con ellos. Puedes hornearlos, asarlos, hervirlos...",
     ["O"] = "Recolecta 6 Trozos de Cangrejo Fino para Gubber Blump en Auberdine.",
-    ["T"] = "Fruto del Mar",
+    ["T"] = "Rico Marisco",
   },
   [1139] = {
     ["D"] = "Hemos ralentizado al clan Forjatiniebla al cortarlos de la Cumbre de Roca Negra, pero la misión de Hammertoe sigue sin cumplirse. Su muerte no debe ser en vano. Soñaba con encontrar la Tabla de la Voluntad: un fragmento de piedra inscrito con magia por los mismos titanes para ayudar a infundir vida a sus creaciones, dándoles una voluntad propia, o eso dicen las leyendas.$B$BTodavía debemos recuperar la Tabla antes de que el clan Forjatiniebla la encuentre.$B$BRegresa a Uldaman, encuentra la tabla y regresa aquí de inmediato.",
