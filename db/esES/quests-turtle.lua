@@ -12380,7 +12380,7 @@ pfDB["quests"]["esES-turtle"] = {
   [5321] = {
     ["D"] = "Estaba en camino al Puesto de Maestra para encontrarme con Liladris Río Lunar, pero decidí detenerme aquí y tomar una breve siesta. Desde que desperté del sueño esmeralda, he estado muy somnoliento...$B$B<bostezo>$B$B¿Te importaría mostrarme el camino? Entiendo que el Puesto de Maestra está al sur de aquí, a lo largo del camino en Vallefresno. Puede ser peligroso, así que espero que tengas algunos amigos que nos acompañen.$B$BPor último, puede que me quede dormido, así que si alguna vez necesitas despertarme, por favor usa mi cuerno. Lo encontrarás en el cofre aquí.",
     ["O"] = "Escolta a Kerlonian Sombraluna hasta Liladris Ríoluna en el Puesto de Maestra en Ashenvale.",
-    ["T"] = "El Durmiente Ha Despertado",
+    ["T"] = "El Despertar",
   },
   [5341] = {
     ["D"] = "Dentro de Scholomance yace la fortuna de la familia Barov. Yo, Alexi Barov, soy uno de los dos últimos herederos de la casa Barov. Mi hermano, Weldon, es el otro.$B$BWeldon, el miserable cobarde, huyó durante la guerra y, por lo tanto, conservó su existencia inútil como humano.$B$BAhora busca las escrituras para reclamar la fortuna para sí mismo. Recupera las escrituras antes que mi hermano y te haré rico más allá de tus sueños más salvajes!",
