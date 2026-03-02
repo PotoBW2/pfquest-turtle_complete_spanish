@@ -7671,7 +7671,7 @@ pfDB["quests"]["esES-turtle"] = {
   [2138] = {
     ["D"] = "Como temía, la cura no funciona.$B$BMe entristece enormemente ordenar la muerte de cualquiera de las bestias de la naturaleza, pero los osos cardenal infectados y contaminados deben ser sacrificados.$B$BRegresa al bosque y destruye 20 osos cardenal rabiosos, $N. Ciertamente no pondrá fin a la plaga, pero ralentizará el daño que los animales están causando a nuestro bosque y sus habitantes por un tiempo.",
     ["O"] = "Purifica el bosque de 20 Osos Cardo Rabiosos y regresa con Tharnariun Cuidador de Árboles en Costa Oscura.",
-    ["T"] = "Limpieza de los Infectados",
+    ["T"] = "La Limpieza de la Infección",
   },
   [2139] = {
     ["D"] = "La supervivencia de nuestra gente y tierras tiene costos desafortunados, $N.$B$BHas derramado la sangre de los sirvientes de la naturaleza, muchos animales enfermos has derribado. La gente de Auberdine está en deuda contigo, porque el dolor del bosque se ha aliviado, aunque sea solo por un momento.$B$BTengo una última tarea para ti, pero ten cuidado, tendrás que matar de nuevo. Espero que esta sea la última vez que te llame, $N.$B$BEn una cueva al noreste, cerca de Bashal\'Aran, reside la Madre de la Guarida. Mátala.",
