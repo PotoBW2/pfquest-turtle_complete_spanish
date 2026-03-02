@@ -4535,7 +4535,7 @@ pfDB["quests"]["esES-turtle"] = {
   [947] = {
     ["D"] = "Estoy ideando una poción que requiere hongos raros, hongos que solo crecen en una cueva en particular. La cueva se encuentra detrás de las Cataratas de Salto del Risco, al este y un poco al norte a lo largo de las montañas.$B$BIría allí yo mismo, pero me aconsejaron desde la Arboleda de los Ancianos que me mantuviera alejado de ese lugar. Nuestros venerables aliados sienten que la cueva es el escondite de un nuevo mal en Costa Oscura.$B$BPor favor, $N, recoge los hongos para mí. Y mientras lo haces, explora la cueva para confirmar los temores de los Ancianos.",
     ["O"] = "Lleva 5 Tallos de Costra y 1 Soma de la Muerte a Barithras Moonshade en Auberdine.",
-    ["T"] = "Hongos de la Cueva",
+    ["T"] = "La Cueva de las Setas",
   },
   [948] = {
     ["D"] = "Onu, un Ancestro del Conocimiento en la Arboleda de los Ancestros, sabe de tu viaje a las Cataratas Aguaescarpada y desea hablar contigo. La arboleda se encuentra al sur, cerca de las montañas.$B$BLos Ancestros son pacientes y sabios, $N. Pero si Onu busca tu consejo sobre lo que viste en las cataratas, entonces temo que es urgente.",
