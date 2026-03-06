@@ -4555,7 +4555,7 @@ pfDB["quests"]["esES-turtle"] = {
   [951] = {
     ["D"] = "El pergamino que encontraste en la Espada del Maestro es una página de un texto antiguo... ¡escrito por elfos! Está muy maldito y corrompido por el Martillo Crepuscular, pero parece que el culto está usando magia élfica antigua para traer a sus antiguos amos de regreso a nuestro mundo.$B$BViaja a las ruinas de Mathystra al noreste y busca reliquias antiguas entre la hierba y las piedras rotas. A través de su estudio, podemos descubrir cómo el Martillo Crepuscular pretende explotar la magia de los elfos.",
     ["O"] = "Lleva 6 Reliquias de Mathystra a Onu en la Arboleda de los Ancianos.",
-    ["T"] = "Reliquias de Mathystra",
+    ["T"] = "Las Reliquias de Mathystra",
   },
   [952] = {
     ["D"] = "Si tuviste tiempo suficiente para llevar mensajes para el Árbol del Oráculo, estoy seguro de que puedo presionarte para que entregues un mensaje a la Arboleda de los Ancestros en Costa Oscura, al sur de Auberdine.$b$bLo más probable es que tengas que asegurar el transporte en un hipogrifo, pero tengo suficiente fe en ti para que puedas manejar eso. Lleva esto a Onu, el Ancestro del Conocimiento. Ha estado esperando noticias mías, incluso como yo esperaba noticias de la Arboleda del Oráculo.",
