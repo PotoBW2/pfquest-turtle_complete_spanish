@@ -4550,7 +4550,7 @@ pfDB["quests"]["esES-turtle"] = {
   [950] = {
     ["D"] = "Mirar dentro del Tomo Crepuscular es enloquecedor. El texto comienza a nadar y bailar después de solo un momento de mirarlo, y una vez que los hermosos adornos se retuercen en formas grotescas.$B$BArrancar una página de garabatos insanos es todo lo que es posible antes de que un desmayo te sobrecoja.",
     ["O"] = "Lleva a Onu los Garabatos Dementes recuperados.",
-    ["T"] = "Regreso con Onu",
+    ["T"] = "Regresa Junto a Onus",
   },
   [951] = {
     ["D"] = "El pergamino que encontraste en la Espada del Maestro es una página de un texto antiguo... ¡escrito por elfos! Está muy maldito y corrompido por el Martillo Crepuscular, pero parece que el culto está usando magia élfica antigua para traer a sus antiguos amos de regreso a nuestro mundo.$B$BViaja a las ruinas de Mathystra al noreste y busca reliquias antiguas entre la hierba y las piedras rotas. A través de su estudio, podemos descubrir cómo el Martillo Crepuscular pretende explotar la magia de los elfos.",
