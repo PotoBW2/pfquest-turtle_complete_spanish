@@ -3903,6 +3903,7 @@ pfDB["items"]["esES-turtle"] = {
   [5182] = "Hoja de Escalofrío",
   [5183] = "Corazón de Hidra Pulsante",
   [5184] = "Frasco de Cristal Lleno",
+  [5185] = "Ampolla de Cristal",
   [5186] = "Receptáculo Parcialmente Lleno",
   [5188] = "Receptáculo Lleno",
   [5189] = "Fruta Resplandeciente",
