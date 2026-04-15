@@ -931,6 +931,7 @@ pfDB["units"]["esES-turtle"] = {
   [2234] = "Reptador de Arrecife Joven",
   [2235] = "Reptador de Arrecife",
   [2236] = "Reptador Correarrecifes Enfurecido",
+  [2237] = "Patriarca Acechalunas",
   [2240] = "Asaltante de Caminos del Sindicato",
   [2244] = "Mago Oscuro del Sindicato",
   [2248] = "Yeti de Cuevas",
