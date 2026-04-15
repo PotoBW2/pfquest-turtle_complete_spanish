@@ -8648,6 +8648,7 @@ pfDB["items"]["esES-turtle"] = {
   [12352] = "Broche de Aparejador de Perdición",
   [12353] = "Semental Blanco",
   [12354] = "Semental Palomino",
+  [12355] = "Dije de Corrupción",
   [12356] = "Huevo de Guiverno de Alto Percha",
   [12358] = "Tablilla de Rocanegra",
   [12359] = "Barra de Torio",
