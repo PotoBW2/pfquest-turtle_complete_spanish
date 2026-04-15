@@ -4756,12 +4756,12 @@ pfDB["quests"]["esES-turtle"] = {
   [994] = {
     ["D"] = "Muy bien, $N, la fuerza es la opción. Salgamos de aquí tan pronto como estés listo. Lucharemos hasta llegar al camino, Garramala debería seguir allí. Una vez allí, podemos separarnos.$B$BTerenthis querrá escuchar tu versión de la historia de inmediato, así que dirígete a Auberdine después de que salgamos de aquí.",
     ["O"] = "Protege a Volcor hasta que llegues al camino, luego habla con Terenthis en Auberdine.",
-    ["T"] = "Escape por la Fuerza",
+    ["T"] = "Escaparse Por la Fuerza",
   },
   [995] = {
     ["D"] = "Muy bien entonces... si estás seguro, nos escaparemos de aquí. Salgamos cuando estés listo.$B$BRecuerda, después de que hayas escapado, reúnete con Terenthis de nuevo en Auberdine. Yo iré allí por mi cuenta, ya que probablemente me moveré más rápido que tú.",
     ["O"] = "Escapa de la cueva Furbolg y reúnete con Terenthis en Auberdine.",
-    ["T"] = "Escape por Sigilo",
+    ["T"] = "Escaparse Furtivamente",
   },
   [996] = {
     ["D"] = "",
