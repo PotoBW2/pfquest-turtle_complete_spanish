@@ -4751,7 +4751,7 @@ pfDB["quests"]["esES-turtle"] = {
   [993] = {
     ["D"] = "La capa está completa, $N. Ha llegado el momento de encontrar a Volcor. Solo espero que estemos a tiempo.$B$BLa magia de la capa, una vez invocada, no durará mucho, quizás cinco minutos. Dependerá de ti saber cuándo usarla: te sugiero que esperes hasta que encuentres a Garraguja.$B$BSi lo que me ha dicho es cierto, encontrarás a su maestro en una cueva al sur de aquí. Garraguja estará junto al camino esperándote. Hazle una señal agitando la mano cuando lo veas, y él te indicará el camino hacia su maestro.",
     ["O"] = "Encuentra a Volcor en Costa Oscura y entrégale la Capa de Acechador Lunar Encantada.",
-    ["T"] = "Un Maestro Perdido",
+    ["T"] = "El Maestro Perdido",
   },
   [994] = {
     ["D"] = "Muy bien, $N, la fuerza es la opción. Salgamos de aquí tan pronto como estés listo. Lucharemos hasta llegar al camino, Garramala debería seguir allí. Una vez allí, podemos separarnos.$B$BTerenthis querrá escuchar tu versión de la historia de inmediato, así que dirígete a Auberdine después de que salgamos de aquí.",
