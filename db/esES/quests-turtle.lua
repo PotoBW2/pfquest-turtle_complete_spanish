@@ -4570,22 +4570,22 @@ pfDB["quests"]["esES-turtle"] = {
   [954] = {
     ["D"] = "Las ruinas de Bashal\'Aran al este están infestadas de esbirros demoníacos. Los espíritus y sátiros que han tomado residencia en el área se alimentan de las energías mágicas del lugar, sus poderes creciendo con la exposición continua.$B$BAún con eso, he notado que hay un santuario al que no se acercan. En el lado oeste de las ruinas, sobre un pequeño acantilado, un extraño aura azul impregna... Debe haber una explicación para la renuencia de los demonios.$B$BMe gustaría que lo investigaras.",
     ["O"] = "Encuentra la fuente de la extraña aura azul en las ruinas de Bashal\'Aran.",
-    ["T"] = "Bashal\'Aran",
+    ["T"] = "Bashal\'aran",
   },
   [955] = {
     ["D"] = "Si tuviera que relatar la historia de mi vida, no tengo dudas de que superaría los límites de tu paciencia. Digamos que la mía ha sido una vida larga y dolorosa, y esta forma espectral es quizás el peor tormento de todos.$b$bMe mantienen aquí por medios mágicos. Aunque mis palabras pueden parecer insinceras, te aseguro que estaría eternamente agradecido si me ayudaras a encontrar los medios de mi encarcelamiento. Un sello me ata, y al examinar las piezas de los grells y los espíritus, puedo encontrar un rastro de él.",
     ["O"] = "Consigue 8 Aretes de Grell para Asterion en Bashal\'Aran.",
-    ["T"] = "Bashal\'Aran",
+    ["T"] = "Bashal\'aran",
   },
   [956] = {
     ["D"] = "Si los grells han entrado en contacto cercano con el sello que ata mi prisión eterna, sospecho que conozco la causa. Sin duda, el sello ha caído en posesión del sátiro que los lidera.$b$bSiento firmemente que esto debe ser cierto, $n. Uno de los sátiros seguramente lo posee. Si puedes obtenerlo, me acercarías tanto a superar las barreras de mi prisión que las lágrimas brotarían de mis ojos.",
     ["O"] = "Consigue el Sello de Piedra Lunar Antiguo y llévaselo a Asterion en Bashal\'Aran.",
-    ["T"] = "Bashal\'Aran",
+    ["T"] = "Bashal\'aran",
   },
   [957] = {
     ["D"] = "Fue el arte de uno de los más poderosos de los Altonato lo que creó el sello que formó mi prisión. En Ameth\'Aran, las ruinas al sur que son gemelas a estas, persiste incluso hoy una antigua llama, de color azul. En esta llama, este sello podría ser destruido.$b$bTen cuidado en las ruinas, $n...",
     ["O"] = "Destruye el Sello de Piedra Lunar Antiguo en la llama antigua en Ameth\'Aran, luego regresa con Asterion en Bashal\'Aran.",
-    ["T"] = "Bashal\'Aran",
+    ["T"] = "Bashal\'aran",
   },
   [958] = {
     ["D"] = "$C. Tengo una tarea para ti.$B$B¿Has visto las ruinas de Ameth\'Aran? Si no, las encontrarás en el lado este del camino principal, un poco hacia el sur. Una vez fueron el hogar de muchos Altonato poderosos, ahora son un testimonio de la destrucción que sus experimentos produjeron.$B$BMe han dicho los Centinelas que los espíritus de los Altonato persisten, y que manejan sus antiguos implementos mágicos. Esas reliquias deben ser apropiadas para que podamos destruirlas.",
