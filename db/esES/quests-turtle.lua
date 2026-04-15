@@ -4730,7 +4730,7 @@ pfDB["quests"]["esES-turtle"] = {
   [986] = {
     ["D"] = "$N, tus habilidades ya me han ayudado en mi empresa. ¿Podría imponerme de nuevo para que ayudes a Zarparrío y a su maestro Volcor? Además, puedo confeccionarte una capa mágica que te permitirá caminar sin ser molestado por las criaturas de Costa Oscura mientras lo buscas.$B$BPara crear la capa, necesitaré cinco pieles finas de acechador lunar de un acechador lunar macho o hembra para tener suficiente material. Los gatos se pueden encontrar cerca del Río Doblez Salvaje al sur, o incluso más al sur cerca de Vallefresno.",
     ["O"] = "Encuentra 5 Pieles Finas de Acechador Lunar y llévaselas a Terenthis en Auberdine.",
-    ["T"] = "Un Maestro Perdido",
+    ["T"] = "El Maestro Perdido",
   },
   [987] = "_",
   [990] = {
