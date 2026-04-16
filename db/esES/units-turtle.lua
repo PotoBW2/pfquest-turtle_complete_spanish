@@ -1399,6 +1399,7 @@ pfDB["units"]["esES-turtle"] = {
   [3715] = "Bruja de Mar Colafuria",
   [3718] = "_",
   [3725] = "Cultor de la Facción Oscura",
+  [3728] = "Adepto de la Facción Oscura",
   [3746] = "Vigía del Cubil Maderiza",
   [3765] = "Sátiro Almaumbría",
   [3767] = "Tramposo Almaumbría",
